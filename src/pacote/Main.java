@@ -7,7 +7,7 @@ public class Main {
         System.out.println("aolaoalaoalo");
         System.out.println("aisjdoiajsido");
         int a = 0;
-
+        System.out.println("jbsauidaoidnasi");
 
     }
 }
