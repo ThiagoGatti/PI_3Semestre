@@ -5,6 +5,7 @@ public class Main {
 
 
         System.out.println("aolaoalaoalo");
+        System.out.println("aisjdoiajsido");
 
     }
 }
